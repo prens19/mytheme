@@ -1,0 +1,104 @@
+/**
+ * @name ceceone
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --main-color: #60AAFF;
+  --hover-color: #0066DD;
+  --success-color: #22C57B;
+  --danger-color: #BB1818;
+  --url-color: #2EFFB5;
+  --background-image: url('https://www.pockettactics.com/wp-content/sites/pockettactics/2022/01/hollow-knight-wallpapers10.jpg');
+  --background-shading: 33%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 60%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://e1.pxfuel.com/desktop-wallpaper/1018/328/desktop-wallpaper-hollow-knight-blue-lake-hollow-knight-android.jpg');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 115%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://e1.pxfuel.com/desktop-wallpaper/1018/328/desktop-wallpaper-hollow-knight-blue-lake-hollow-knight-android.jpg');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 110%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 4px;
+  --home-icon: url('https://ih1.redbubble.net/image.1781674701.8746/flat,750x1000,075,f.jpg');
+  --home-position: center;
+  --home-size: 55px;
+  --channel-unread: #FFA5F3;
+  --channel-color: rgb(231,231,231,0.97);
+  --muted-color: rgb(255,255,255,0.43);
+  --online-color: #36E394;
+  --idle-color: #FF9F00;
+  --dnd-color: #A50000;
+  --streaming-color: #593695;
+  --offline-color: #808080;
+  --main-font: gg sans;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+  --rs-small-spacing: 1px;
+  --rs-medium-spacing: 1px;
+  --rs-large-spacing: 1px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #33CC86;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #BC0101;
+  --rs-offline-color: #485D77;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
